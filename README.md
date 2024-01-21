@@ -11,7 +11,7 @@
 
 🌟 Currently Learning Robotics lol
 
-[![Discord: theantidisestablishmentarianist](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://discord.com/users/723310347724783687)
+[![Discord: theantidisestablishmentarianist](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://discord.com/users/723310347724783687)
 [![GitHub: Broco8Dev](https://img.shields.io/github/followers/broco8dev?label=follow&style=social)](https://github.com/Broco8Dev)
 ![Twitter: Broco8Real](https://img.shields.io/twitter/follow/Broco8Real?style=social)
 
