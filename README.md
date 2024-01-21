@@ -1,7 +1,7 @@
 
 
 <p align="right">
-  <img align="right" height="140" src="pfp.jpg?raw=true" alt="Logo" style="float: right; border-radius: 100px;"/>
+  <img align="right" height="140" src="pfp.png?raw=true" alt="Logo" style="float: right; "/>
 </p>
 
 ## what's good! 👋 I'm BrocoDev, a funni lil ios and game developer fr.
