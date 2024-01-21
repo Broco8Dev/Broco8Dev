@@ -25,10 +25,10 @@
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Game Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/Broco8Real), [Discord]([https://instagram.com/codewithghazi](https://discord.com/users/723310347724783687))**
+  **[Twitter](https://twitter.com/Broco8Real), [Discord](https://discord.com/users/723310347724783687)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Broco8Dev&layout=compact&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
+![BrocoDev's github stats](https://github-readme-stats.vercel.app/api?username=Broco8Dev&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Broco8Dev)](https://github.com/Broco8Dev/github-profile-trophy)
