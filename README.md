@@ -1,4 +1,8 @@
+<div style="text-align: center;">
+  <img src="banner.png" alt="Banner Image" width="800px">
 
+  <p><strong>Important:</strong> This is a banner message. Customize it as needed.</p>
+</div>
 
 <p align="right">
   <img align="right" height="140" src="pfp.png?raw=true" alt="Logo" style="float: right; "/>
