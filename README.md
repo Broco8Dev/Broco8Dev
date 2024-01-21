@@ -16,9 +16,9 @@
 ![Twitter: Broco8Real](https://img.shields.io/twitter/follow/Broco8Real?style=social)
 
 ### Creator of: 
-- **[Melatonin](https://www.npmjs.com/package/formify-react)** 
-- **[ThirdStore](https://github.com/gkhan205/cwg-react-starter)** 
-- **[SwiftUI-Windows](https://www.npmjs.com/package/slugifyme)**
+- **[Melatonin](https://www.npmjs.com/package/Melatonin)** 
+- **[ThirdStore](https://github.com/Broco8Dev/ThirdStore)** 
+- **[SwiftUI-Windows](https://github.com/Broco8Dev/SwiftUI-Windows)**
 
 - 🔭 I’m currently working as **Owner of Nocturna Development Team**
 - 🌱 I’m currently learning **Backend Development With C++**
