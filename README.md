@@ -1,5 +1,9 @@
 ![Banner Image](banner.jpg)
 
+<p align="right">
+  <img align="right" height="140" src="https://github.com/Broco8Dev/blob/main/banner.jpg?raw=true" alt="Logo" style="float: right; border-radius: 10px;"/>
+</p>
+
 
 ## what's good! 👋 I'm BrocoDev, a funni lil ios and game developer fr.
 
