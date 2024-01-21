@@ -1,7 +1,7 @@
 ![Banner Image](image/Banner.png)
 
 
-## Hi there! 👋 I'm BrocoDev, a funni lil ios and game developer fr.
+## what's good! 👋 I'm BrocoDev, a funni lil ios and game developer fr.
 
 🚀 14 Years Old, Canadian & Lebanese, English and Francais.
 
