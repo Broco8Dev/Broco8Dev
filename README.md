@@ -1,4 +1,4 @@
-![Banner Image](image/Banner.png)
+![Banner Image](banner.jpg)
 
 
 ## what's good! 👋 I'm BrocoDev, a funni lil ios and game developer fr.
