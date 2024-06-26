@@ -12,14 +12,14 @@
 
 [![Discord: theantidisestablishmentarianist](https://img.shields.io/badge/-BrocoDev-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/723310347724783687)](https://discord.com/users/723310347724783687)
 [![GitHub: Broco8Dev](https://img.shields.io/github/followers/broco8dev?label=follow&style=social)](https://github.com/Broco8Dev)
-![Twitter: Broco8Real](https://img.shields.io/twitter/follow/Broco8Real?style=social)
+![Twitter: Broco8Dev](https://img.shields.io/twitter/follow/Broco8Dev?style=social)
 
 - 🔭 I’m currently working as **Owner of nVision Development Team**
 - 🌱 I’m currently learning **Backend Development With C++**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Game Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/Broco8Real), [Discord](https://discord.com/users/723310347724783687)**
+  **[Twitter](https://twitter.com/Broco8Dev), [Discord](https://discord.com/users/723310347724783687)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Broco8Dev&layout=compact&theme=dark&hide_border=true)
 
