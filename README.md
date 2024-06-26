@@ -2,13 +2,13 @@
   <img align="right" height="140" src="pfp.png?raw=true" alt="Logo" style="float: right; "/>
 </p>
 
-## what's good! 👋 I'm BrocoDev, a ios and game developer fr.
+## I'm BrocoDev, an ios and game developer.
 
-🚀 15 Years Old, Canadian & Lebanese, English and Francais.
+🚀 15, Canadian & Lebanese, English and Francais.
 
 🛠️ My code toolkit includes Java, C#, Python, C++, Swift/SwiftUI, JavaScript, Electron, and HTML/CSS.
 
-🌟 Currently Learning Robotics lol
+🌟 Currently Learning Robotics
 
 [![Discord: theantidisestablishmentarianist](https://img.shields.io/badge/-BrocoDev-blue?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/users/723310347724783687)](https://discord.com/users/723310347724783687)
 [![GitHub: Broco8Dev](https://img.shields.io/github/followers/broco8dev?label=follow&style=social)](https://github.com/Broco8Dev)
