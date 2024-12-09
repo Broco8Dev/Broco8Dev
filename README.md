@@ -4,8 +4,6 @@
 
 ## I'm BrocoDev, an ios and game developer.
 
-🚀 15, Canadian & Lebanese, English and Francais.
-
 🛠️ My code toolkit includes Java, C#, Python, C++, Swift/SwiftUI, JavaScript, Electron, and HTML/CSS.
 
 🌟 Currently Learning Robotics
@@ -14,7 +12,7 @@
 [![GitHub: Broco8Dev](https://img.shields.io/github/followers/broco8dev?label=follow&style=social)](https://github.com/Broco8Dev)
 ![Twitter: Broco8Dev](https://img.shields.io/twitter/follow/Broco8Dev?style=social)
 
-- 🔭 I’m currently working as **Owner of nVision Development Team**
+- 🔭 I’m currently working as **Development Freelancer and Startup Owner**
 - 🌱 I’m currently learning **Backend Development With C++**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Game Development**
